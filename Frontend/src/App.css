@@ -1,0 +1,140 @@
+
+/*  APP  */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #4b96ba;
+  height: 140px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #f9f5f0;
+  border-radius: 12px;
+  display: inline-block;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.ContentBlock {
+  background-color: #a4e0e9;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 15px;
+  text-align: center;
+  width: 80%;
+}
+
+.ErrorMessage {
+  color: #e00909;
+  font-weight: bold;
+}
+
+body {
+  background-color: #d4edf1;
+}
+
+
+
+/*  BUTTONS  */
+
+.Button-Delete{
+  background-color: #2c2e6b;
+  border: 0px;
+  border-radius: 6px;
+  color: #dad3e9;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+}
+
+.Button-Delete:hover:enabled {
+  background-color: #5c5fa1;
+  color: #FFF;
+}
+
+.Button-Generic {
+  background-color: #2c2e6b;
+  border: 0px;
+  border-radius: 8px;
+  color: #dad3e9;
+  display: inline-block;
+  font-size: 18px;
+  height: 45px;
+  margin: 20px;
+  text-align: center;
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+}
+
+.Button-Generic:hover:enabled {
+  background-color: #5c5fa1;
+  color: #FFF;
+}
+
+button:disabled {
+  opacity: 0.5;
+}
+
+
+
+/*  COURSE TABLE  */
+
+.CourseTable {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.LoadingText {
+  font-size: 20px;
+  text-align: center;
+}
+
+.TableHeader {
+  font-size: 20px;
+}
+
+
+
+/*  EDIT COURSE  */
+
+.EditCourseInput {
+  background-color: #fcfcfc;
+  border: 0px;
+  border-radius: 6px;
+  height: 25px;
+  font-size: 14px;
+  width: 50%;
+  max-width: 500px;
+}
+
+.EditCourseInput:disabled {
+  background-color: #b5b5b5;
+  color: #282828;
+  opacity: 0.5;
+}
+
+.EditCourseLabel {
+  padding-left: 25%;
+  text-align: left;
+}
+
+
+
+/*  IGNORE  */
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

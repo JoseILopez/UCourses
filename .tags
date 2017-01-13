@@ -1,0 +1,243 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+extends	/Users/JoseLopez/Documents/JS/UCourses/Backend/.eslintrc.json	/^    "extends": "airbnb-base",$/;"	function	line:2
+plugins	/Users/JoseLopez/Documents/JS/UCourses/Backend/.eslintrc.json	/^    "plugins": [$/;"	function	line:3
+rules	/Users/JoseLopez/Documents/JS/UCourses/Backend/.eslintrc.json	/^    "rules": {$/;"	function	line:6
+no-console	/Users/JoseLopez/Documents/JS/UCourses/Backend/.eslintrc.json	/^      "no-console": 0,$/;"	function	line:7
+arrow-body-style	/Users/JoseLopez/Documents/JS/UCourses/Backend/.eslintrc.json	/^      "arrow-body-style": 0$/;"	function	line:8
+sendResponse	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/models/course.js	/^    function sendResponse(err, doc) {$/;"	function	line:75
+remove	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/courseDELETE.js	/^function remove(req, res) {$/;"	function	line:10
+remove	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/courseDELETE.js	/^function remove(req, res) {$/;"	function	line:10
+getAll	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/courseGET.js	/^function getAll(req, res) {$/;"	function	line:11
+getAll	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/courseGET.js	/^function getAll(req, res) {$/;"	function	line:11
+getOne	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/courseGET.js	/^function getOne(req, res) {$/;"	function	line:19
+getOne	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/courseGET.js	/^function getOne(req, res) {$/;"	function	line:19
+post	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/coursePOST.js	/^function post(req, res) {$/;"	function	line:10
+post	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/coursePOST.js	/^function post(req, res) {$/;"	function	line:10
+init	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/coursePURGE.js	/^function init(req, res) {$/;"	function	line:9
+init	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/coursePURGE.js	/^function init(req, res) {$/;"	function	line:9
+put	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/coursePUT.js	/^function put(req, res) {$/;"	function	line:10
+put	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/coursePUT.js	/^function put(req, res) {$/;"	function	line:10
+sendIndex	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/index.js	/^function sendIndex(req, res) {$/;"	function	line:11
+sendIndex	/Users/JoseLopez/Documents/JS/UCourses/Backend/app/routes/index.js	/^function sendIndex(req, res) {$/;"	function	line:11
+configExpress	/Users/JoseLopez/Documents/JS/UCourses/Backend/config/configExpress.js	/^function configExpress(app) {$/;"	function	line:16
+configExpress	/Users/JoseLopez/Documents/JS/UCourses/Backend/config/configExpress.js	/^function configExpress(app) {$/;"	function	line:16
+const.port	/Users/JoseLopez/Documents/JS/UCourses/Backend/config/env.js	/^const env = {$/;"	property	line:1
+const.DB	/Users/JoseLopez/Documents/JS/UCourses/Backend/config/env.js	/^  port: 5000,$/;"	property	line:2
+const.HTTP_CODES	/Users/JoseLopez/Documents/JS/UCourses/Backend/config/env.js	/^  DB: 'mongodb:\/\/localhost:27017\/courses',$/;"	property	line:4
+connect	/Users/JoseLopez/Documents/JS/UCourses/Backend/db/connection.js	/^function connect(path) {$/;"	function	line:8
+connect	/Users/JoseLopez/Documents/JS/UCourses/Backend/db/connection.js	/^function connect(path) {$/;"	function	line:8
+name	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^  "name": "ucourses",$/;"	function	line:2
+main	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^  "main": "server.js",$/;"	function	line:3
+scripts	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^  "scripts": {$/;"	function	line:4
+lint	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "lint": ".\/node_modules\/.bin\/esw --ext .js -w .\/*"$/;"	function	line:5
+dependencies	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^  "dependencies": {$/;"	function	line:7
+body-parser	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "body-parser": "^1.15.2",$/;"	function	line:8
+cors	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "cors": "^2.8.1",$/;"	function	line:9
+express	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "express": "^4.14.0",$/;"	function	line:10
+mongoose	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "mongoose": "^4.7.5"$/;"	function	line:11
+devDependencies	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^  "devDependencies": {$/;"	function	line:13
+eslint	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "eslint": "^3.12.2",$/;"	function	line:14
+eslint-config-airbnb-base	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "eslint-config-airbnb-base": "^11.0.0",$/;"	function	line:15
+eslint-plugin-import	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "eslint-plugin-import": "^2.2.0",$/;"	function	line:16
+eslint-watch	/Users/JoseLopez/Documents/JS/UCourses/Backend/package.json	/^    "eslint-watch": "^2.1.14"$/;"	function	line:17
+name	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^  "name": "Frontend",$/;"	function	line:2
+version	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^  "version": "0.1.0",$/;"	function	line:3
+private	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^  "private": true,$/;"	function	line:4
+devDependencies	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^  "devDependencies": {$/;"	function	line:5
+react-scripts	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "react-scripts": "0.8.4",$/;"	function	line:6
+redux-logger	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "redux-logger": "^2.7.4"$/;"	function	line:7
+dependencies	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^  "dependencies": {$/;"	function	line:9
+react	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "react": "^15.4.1",$/;"	function	line:10
+react-dom	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "react-dom": "^15.4.1",$/;"	function	line:11
+react-redux	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "react-redux": "^5.0.1",$/;"	function	line:12
+react-router	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "react-router": "^3.0.0",$/;"	function	line:13
+redux	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "redux": "^3.6.0",$/;"	function	line:14
+redux-thunk	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "redux-thunk": "^2.1.0"$/;"	function	line:15
+scripts	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^  "scripts": {$/;"	function	line:17
+start	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "start": "react-scripts start",$/;"	function	line:18
+build	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "build": "react-scripts build",$/;"	function	line:19
+test	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "test": "react-scripts test --env=jsdom",$/;"	function	line:20
+eject	/Users/JoseLopez/Documents/JS/UCourses/Frontend/package.json	/^    "eject": "react-scripts eject"$/;"	function	line:21
+html	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+meta	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:5
+link	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^    <link rel="shortcut icon" href="%PUBLIC_URL%\/favicon.ico">$/;"	function	line:6
+title	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^    <title>UCourses<\/title>$/;"	function	line:16
+body	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^  <body>$/;"	function	line:18
+div	/Users/JoseLopez/Documents/JS/UCourses/Frontend/public/index.html	/^    <div id="root"><\/div>$/;"	function	line:19
+Table of Contents	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Table of Contents$/;"	function	line:6
+Updating to New Releases	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Updating to New Releases$/;"	function	line:65
+Sending Feedback	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Sending Feedback$/;"	function	line:82
+Folder Structure	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Folder Structure$/;"	function	line:86
+Available Scripts	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Available Scripts$/;"	function	line:123
+`npm start`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `npm start`$/;"	function	line:127
+`npm test`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `npm test`$/;"	function	line:135
+`npm run build`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `npm run build`$/;"	function	line:140
+`npm run eject`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `npm run eject`$/;"	function	line:150
+Syntax Highlighting in the Editor	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Syntax Highlighting in the Editor$/;"	function	line:160
+Displaying Lint Output in the Editor	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Displaying Lint Output in the Editor$/;"	function	line:164
+Installing a Dependency	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Installing a Dependency$/;"	function	line:199
+Importing a Component	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Importing a Component$/;"	function	line:207
+`Button.js`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `Button.js`$/;"	function	line:214
+`DangerButton.js`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `DangerButton.js`$/;"	function	line:228
+Adding a Stylesheet	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Adding a Stylesheet$/;"	function	line:256
+`Button.css`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `Button.css`$/;"	function	line:260
+`Button.js`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `Button.js`$/;"	function	line:268
+Post-Processing CSS	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Post-Processing CSS$/;"	function	line:288
+Adding Images and Fonts	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Adding Images and Fonts$/;"	function	line:321
+Using the `public` Folder	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Using the `public` Folder$/;"	function	line:360
+Using Global Variables	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Using Global Variables$/;"	function	line:405
+Adding Bootstrap	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Adding Bootstrap$/;"	function	line:419
+Adding Flow	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Adding Flow$/;"	function	line:445
+Adding Custom Environment Variables	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Adding Custom Environment Variables$/;"	function	line:470
+Adding Temporary Environment Variables In Your Shell	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Adding Temporary Environment Variables In Your Shell$/;"	function	line:526
+Windows (cmd.exe)	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Windows (cmd.exe)$/;"	function	line:531
+Linux, OS X (Bash)	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Linux, OS X (Bash)$/;"	function	line:539
+Adding Development Environment Variables In `.env`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Adding Development Environment Variables In `.env`$/;"	function	line:545
+Can I Use Decorators?	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Can I Use Decorators?$/;"	function	line:561
+Integrating with a Node Backend	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Integrating with a Node Backend$/;"	function	line:578
+Proxying API Requests in Development	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Proxying API Requests in Development$/;"	function	line:582
+Using HTTPS in Development	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Using HTTPS in Development$/;"	function	line:619
+Windows (cmd.exe)	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Windows (cmd.exe)$/;"	function	line:627
+Linux, OS X (Bash)	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Linux, OS X (Bash)$/;"	function	line:635
+Generating Dynamic `<meta>` Tags on the Server	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Generating Dynamic `<meta>` Tags on the Server$/;"	function	line:643
+Running Tests	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Running Tests$/;"	function	line:659
+Filename Conventions	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Filename Conventions$/;"	function	line:672
+Command Line Interface	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Command Line Interface$/;"	function	line:684
+Version Control Integration	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Version Control Integration$/;"	function	line:692
+Writing Tests	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Writing Tests$/;"	function	line:700
+Testing Components	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Testing Components$/;"	function	line:718
+Using Third Party Assertion Libraries	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Using Third Party Assertion Libraries$/;"	function	line:777
+Initializing Test Environment	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Initializing Test Environment$/;"	function	line:790
+`src/setupTests.js`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### `src\/setupTests.js`$/;"	function	line:798
+Focusing and Excluding Tests	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Focusing and Excluding Tests$/;"	function	line:808
+Coverage Reporting	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Coverage Reporting$/;"	function	line:813
+Continuous Integration	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Continuous Integration$/;"	function	line:822
+On CI servers	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### On CI servers$/;"	function	line:830
+Travis CI	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Travis CI$/;"	function	line:831
+On your own environment	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### On your own environment$/;"	function	line:850
+Windows (cmd.exe)	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^##### Windows (cmd.exe)$/;"	function	line:851
+Linux, OS X (Bash)	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^##### Linux, OS X (Bash)$/;"	function	line:863
+Disabling jsdom	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Disabling jsdom$/;"	function	line:879
+Experimental Snapshot Testing	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Experimental Snapshot Testing$/;"	function	line:906
+Editor Integration	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Editor Integration$/;"	function	line:912
+Developing Components in Isolation	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Developing Components in Isolation$/;"	function	line:918
+Making a Progressive Web App	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Making a Progressive Web App$/;"	function	line:958
+Deployment	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Deployment$/;"	function	line:962
+Serving Apps with Client-Side Routing	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Serving Apps with Client-Side Routing$/;"	function	line:991
+Building for Relative Paths	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Building for Relative Paths$/;"	function	line:1008
+Firebase	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Firebase$/;"	function	line:1020
+GitHub Pages	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### GitHub Pages$/;"	function	line:1081
+Step 1: Add `homepage` to `package.json`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Step 1: Add `homepage` to `package.json`$/;"	function	line:1085
+Step 2: Install `gh-pages` and add `deploy` to `scripts` in `package.json`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `package.json`$/;"	function	line:1098
+Step 3: Deploy the site by running `npm run deploy`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Step 3: Deploy the site by running `npm run deploy`$/;"	function	line:1120
+Step 4: Ensure your project's settings use `gh-pages`	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Step 4: Ensure your project's settings use `gh-pages`$/;"	function	line:1128
+Step 5: Optionally, configure the domain	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Step 5: Optionally, configure the domain$/;"	function	line:1134
+Notes on client-side routing	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^#### Notes on client-side routing$/;"	function	line:1138
+Heroku	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Heroku$/;"	function	line:1145
+Modulus	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Modulus$/;"	function	line:1150
+Netlify	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Netlify$/;"	function	line:1154
+Now	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Now$/;"	function	line:1183
+S3 and CloudFront	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### S3 and CloudFront$/;"	function	line:1187
+Surge	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### Surge$/;"	function	line:1191
+Troubleshooting	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Troubleshooting$/;"	function	line:1212
+`npm test` hangs on macOS Sierra	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `npm test` hangs on macOS Sierra$/;"	function	line:1214
+`npm run build` silently fails	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^### `npm run build` silently fails$/;"	function	line:1238
+Something Missing?	/Users/JoseLopez/Documents/JS/UCourses/Frontend/README.md	/^## Something Missing?$/;"	function	line:1242
+deleteCourse	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^export function deleteCourse(title) {$/;"	function	line:9
+export.method	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^  const request = {$/;"	property	line:10
+export.headers	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^    method: 'DELETE',$/;"	property	line:11
+getCourse	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^export function getCourse(title) {$/;"	function	line:23
+const.method	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^  const request = {$/;"	property	line:29
+const.headers	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^    method: 'GET',$/;"	property	line:30
+getCourses	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^export function getCourses() {$/;"	function	line:42
+export.method	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^  const request = {$/;"	property	line:43
+export.headers	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^    method: 'GET',$/;"	property	line:44
+saveCourse	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^export function saveCourse(course, edit, oldName) {$/;"	function	line:56
+export.method	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^  let request = {$/;"	property	line:60
+export.headers	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/api/requests.js	/^    method: 'POST',$/;"	property	line:61
+App	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.js	/^function App(props) {$/;"	function	line:6
+App	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.js	/^function App(props) {$/;"	function	line:6
+body	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/index.css	/^body {$/;"	function	line:1
+.App	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.App {$/;"	function	line:4
+.App-logo	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.App-logo {$/;"	function	line:8
+.App-header	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.App-header {$/;"	function	line:13
+.App-intro	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.App-intro {$/;"	function	line:24
+.ContentBlock	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.ContentBlock {$/;"	function	line:28
+body	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^body {$/;"	function	line:37
+.Button-Delete	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.Button-Delete{$/;"	function	line:43
+.Button-Delete:hover:enabled	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.Button-Delete:hover:enabled {$/;"	function	line:54
+.Button-Generic	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.Button-Generic {$/;"	function	line:59
+.Button-Generic:hover:enabled	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.Button-Generic:hover:enabled {$/;"	function	line:73
+button:disabled	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^button:disabled {$/;"	function	line:78
+.CourseTable	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.CourseTable {$/;"	function	line:84
+.LoadingText	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.LoadingText {$/;"	function	line:90
+.TableHeader	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.TableHeader {$/;"	function	line:95
+.EditCourseInput	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.EditCourseInput {$/;"	function	line:101
+.EditCourseInput:disabled	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.EditCourseInput:disabled {$/;"	function	line:111
+.EditCourseLabel	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.EditCourseLabel {$/;"	function	line:117
+.InputFieldError	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^.InputFieldError {$/;"	function	line:122
+@keyframes App-logo-spin	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^@keyframes App-logo-spin {$/;"	function	line:129
+from	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^  from { transform: rotate(0deg); }$/;"	function	line:130
+to	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/App.css	/^  to { transform: rotate(360deg); }$/;"	function	line:131
+processTitle	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function processTitle(title) {$/;"	function	line:7
+processTitle	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function processTitle(title) {$/;"	function	line:7
+handleResponse	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function handleResponse(res, data) {$/;"	function	line:13
+handleResponse	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function handleResponse(res, data) {$/;"	function	line:13
+uniqueArray	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function uniqueArray(arr) {$/;"	function	line:24
+uniqueArray	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function uniqueArray(arr) {$/;"	function	line:24
+isAlphaNumWithSpaces	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function isAlphaNumWithSpaces(text) {$/;"	function	line:38
+isAlphaNumWithSpaces	/Users/JoseLopez/Documents/JS/UCourses/Utilities/utilities.js	/^function isAlphaNumWithSpaces(text) {$/;"	function	line:38
+clearCourseData	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/commonActions.js	/^export function clearCourseData() {$/;"	function	line:4
+saveReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/saveReducer.js	/^function saveReducer(state = saveState, action) {$/;"	function	line:9
+switch	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/saveReducer.js	/^  switch(action.type) {$/;"	function	line:10
+saveReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/saveReducer.js	/^function saveReducer(state = saveState, action) {$/;"	function	line:9
+deleteReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteReducer(state = deleteState, action) {$/;"	function	line:9
+switch	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^  switch(action.type) {$/;"	function	line:10
+deleteReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteReducer(state = deleteState, action) {$/;"	function	line:9
+deleteCourseStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteCourseStart(state, title) {$/;"	function	line:26
+deleteCourseStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteCourseStart(state, title) {$/;"	function	line:26
+deleteCourseSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteCourseSuccess(state, title) {$/;"	function	line:34
+deleteCourseSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteCourseSuccess(state, title) {$/;"	function	line:34
+deleteCourseFail	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteCourseFail(state, title, error) {$/;"	function	line:44
+deleteCourseFail	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/deleteReducer.js	/^function deleteCourseFail(state, title, error) {$/;"	function	line:44
+const.fetching	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^const fetchState = {$/;"	property	line:5
+const.courses	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^  fetching: false,$/;"	property	line:6
+fetchReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchReducer(state = fetchState, action) {$/;"	function	line:14
+switch	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^  switch(action.type) {$/;"	function	line:15
+fetchReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchReducer(state = fetchState, action) {$/;"	function	line:14
+clearCourseData	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function clearCourseData(state) {$/;"	function	line:39
+clearCourseData	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function clearCourseData(state) {$/;"	function	line:39
+fetchStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchStart(state) {$/;"	function	line:45
+fetchStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchStart(state) {$/;"	function	line:45
+fetchFail	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchFail(state) {$/;"	function	line:52
+fetchFail	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchFail(state) {$/;"	function	line:52
+fetchSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchSuccess(state, courses) {$/;"	function	line:61
+fetchSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchSuccess(state, courses) {$/;"	function	line:61
+fetchOneSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchOneSuccess(state, course) {$/;"	function	line:71
+fetchOneSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/fetchReducer.js	/^function fetchOneSuccess(state, course) {$/;"	function	line:71
+clearError	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/errorActions.js	/^export function clearError() {$/;"	function	line:3
+displayError	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/errorActions.js	/^export function displayError(error) {$/;"	function	line:9
+deleteCourseStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/deleteActions.js	/^export function deleteCourseStart(title) {$/;"	function	line:7
+deleteCourseSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/deleteActions.js	/^export function deleteCourseSuccess() {$/;"	function	line:17
+errorReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/errorReducer.js	/^function errorReducer(state = defaultError, action) {$/;"	function	line:9
+switch	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/errorReducer.js	/^  switch(action.type) {$/;"	function	line:10
+errorReducer	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/reducers/errorReducer.js	/^function errorReducer(state = defaultError, action) {$/;"	function	line:9
+fetchStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/fetchActions.js	/^export function fetchStart() {$/;"	function	line:8
+fetchSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/fetchActions.js	/^export function fetchSuccess(courses) {$/;"	function	line:21
+fetchOneStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/fetchActions.js	/^export function fetchOneStart(title) {$/;"	function	line:31
+fetchOneSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/fetchActions.js	/^export function fetchOneSuccess(course) {$/;"	function	line:43
+saveCourseStart	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^export function saveCourseStart(course, edit, oldName) {$/;"	function	line:7
+saveCourseSuccess	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^export function saveCourseSuccess() {$/;"	function	line:28
+dispatchSuccessAndRedirect	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^function dispatchSuccessAndRedirect(dispatch) {$/;"	function	line:34
+dispatchSuccessAndRedirect	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^function dispatchSuccessAndRedirect(dispatch) {$/;"	function	line:34
+handleError	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^function handleError(err) {$/;"	function	line:40
+handleError	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^function handleError(err) {$/;"	function	line:40
+verifyCourse	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^function verifyCourse(res, edit, course, oldName) {$/;"	function	line:46
+verifyCourse	/Users/JoseLopez/Documents/JS/UCourses/Frontend/src/actions/saveActions.js	/^function verifyCourse(res, edit, course, oldName) {$/;"	function	line:46

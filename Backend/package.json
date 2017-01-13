@@ -1,0 +1,19 @@
+{
+  "name": "ucourses",
+  "main": "server.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/esw --ext .js -w ./*"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.5"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-watch": "^2.1.14"
+  }
+}
